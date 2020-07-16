@@ -1,0 +1,11 @@
+fatec\hotel\DTO\Deposito.class
+fatec\hotel\DTO\Hospedagem.class
+fatec\hotel\DTO\Reserva.class
+fatec\hotel\DTO\Atendente.class
+fatec\hotel\DTO\Cliente.class
+fatec\hotel\DTO\Nota.class
+fatec\hotel\DTO\Servico.class
+fatec\hotel\DAO\QuartoDAO.class
+fatec\hotel\DTO\Quarto.class
+fatec\hotel\DAO\ConexaoSQLite.class
+fatec\hotel\TableModels\QuartoTableModel.class
